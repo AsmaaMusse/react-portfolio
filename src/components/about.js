@@ -12,6 +12,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />
             Full-Stack Web Developer.
           </h1>
+
           <p className="mb-8 leading-relaxed">
             I am a Software Developer based in the UK who is passionate about
             designing websites from scratch and making clients ideas turn to
@@ -37,12 +38,14 @@ export default function About() {
           </div>
         </div>
 
-        <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-          <img
-            className="object-cover object-center rounded"
-            alt="hero"
-            src={picture}
-          />
+        <div className="flex flex-wrap justify-center">
+          <div className="w-6/12 sm:w-4/12 px-4">
+            <img
+              src="https://www.creative-tim.com/learning-lab/tailwind-starter-kit/img/team-2-800x800.jpg"
+              alt="..."
+              className="shadow rounded-full max-w-full h-auto align-middle border-none"
+            />
+          </div>
         </div>
       </div>
     </section>

@@ -1,4 +1,9 @@
-section {
+.logo img {
+  height: 100px;
+  margin: 30px;
+}
+
+/* section {
   background-color: white;
 }
 
@@ -98,12 +103,9 @@ a:hover {
   padding-bottom: 200px;
 }
 
-.logo img {
-  height: 100px;
-  margin: 30px;
-}
 
-.about-me-container {
+
+/* .about-me-container {
   display: flex;
   justify-content: space-around;
   padding: 80px;
@@ -226,4 +228,4 @@ footer {
   .logo {
     display: none;
   }
-}
+} */

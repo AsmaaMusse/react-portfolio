@@ -1,20 +1,20 @@
-import React from "react";
-
 import "./App.css";
+import "./index.css";
+
 import Navbar from "./components/navbar";
 import About from "./components/about";
 import Projects from "./components/projects";
 import Contacts from "./components/contacts";
+import Skills from "./components/skills";
 
-function App() {
+export default function App() {
   return (
-    <main>
+    <main className="text-gray-400 bg-gray-900 body-font">
       <Navbar />
-      <About />
+      {/* <About />
+      <Skills />
       <Projects />
-      <Contacts />
+      <Contacts /> */}
     </main>
   );
 }
-
-export default App;

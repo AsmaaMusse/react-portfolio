@@ -33,7 +33,7 @@ export const project = [
     subtitle: "JavaScript, Node.js, Inquirer, MySQL",
     description:
       "Command-line application from scratch to manage a company's employee database using Node.js, Inquirer and MySQL.",
-    image: <img src="./assets/project-pics/terminal.png" />,
+    image: "./assets/project-pics/terminal.png",
     github: "https://github.com/AsmaaMusse/mysql-employee-tracker",
   },
 

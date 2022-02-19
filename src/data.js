@@ -1,4 +1,4 @@
-export const projects = [
+export const project = [
   {
     title: "Readers Revival",
     subtitle: "HTML, JavaScript, Web APIs, Moment.js",
@@ -20,30 +20,38 @@ export const projects = [
   },
 
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "E-commerce Back-end",
+    subtitle: "JavaScript, Node.js, Express.js, Sequelize",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    github: "https://reactbootcamp.com",
-    application: "",
+      "E-commerce back end which uses Express.js to interact with a MySQL work-bench database using sequelize.",
+    image: "./assets/project-pics/code.png",
+    github: "https://github.com/AsmaaMusse/orm-e-commerce",
   },
 
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Employee Tracker",
+    subtitle: "JavaScript, Node.js, Inquirer, MySQL",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Command-line application from scratch to manage a company's employee database using Node.js, Inquirer and MySQL.",
+    image: <img src="./assets/project-pics/terminal.png" />,
+    github: "https://github.com/AsmaaMusse/mysql-employee-tracker",
   },
 
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Weather Dashboard",
+    subtitle: "HTML, CSS, JavaScript, jQuery",
+    description: "Weather forecast webpage using Open Weather One Call API.",
+    image: "./assets/project-pics/weather-forecast.jpg",
+    github: "https://github.com/AsmaaMusse/js-weather-forecast-dashboard",
+  },
+
+  {
+    title: "Note Taker",
+    subtitle: "HTML, CSS, JavaScript, Node.js, Nodemon, Express.js",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "Note-taker using Express and node.js which helps the user stay organized by saving and deleting notes when needed.",
+    image: "./assets/project-pics/homepage.jpg",
+    github: "https://github.com/AsmaaMusse/express-note-taker",
+    application: "https://sheltered-stream-18510.herokuapp.com/",
   },
 ];

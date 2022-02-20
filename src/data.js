@@ -4,7 +4,7 @@ export const project = [
     subtitle: "HTML, JavaScript, Web APIs, Moment.js",
     description:
       "Reading planner application where the user can search for a specific book. The user can add books to their planner and view scheduled books per month.",
-    image: "./assets/project-pics/readers-revival.jpg",
+    image: "/readers-revival.jpg",
     github: "https://github.com/AsmaaMusse/readers-revival",
     application: "https://asmaamusse.github.io/readers-revival/",
   },
@@ -14,7 +14,7 @@ export const project = [
     subtitle: "Node.js, Express.js, MySQL, Handlebars",
     description:
       "An application using the MVC paradigm, with its own server-side API, user authentication, and which connects to a database",
-    image: "./assets/project-pics/mobile-home-page.png",
+    image: "src/assets/project-pics/mobile-home-page.png",
     github: "https://github.com/AsmaaMusse/food4U",
     application: "https://food-4u.herokuapp.com/",
   },
@@ -54,4 +54,41 @@ export const project = [
     github: "https://github.com/AsmaaMusse/express-note-taker",
     application: "https://sheltered-stream-18510.herokuapp.com/",
   },
+];
+
+export const frontend = [
+  "HTML",
+  "CSS",
+  "JavaScript",
+  "jQuery",
+  "Web APIs",
+  "React",
+];
+
+export const backend = [
+  "Node.js",
+  "Express.js",
+  "OOP",
+  "MySQL",
+  "MongoDB",
+  "Apollo",
+];
+
+export const nonTechnical = [
+  "Bootstrap",
+  "Bulma",
+  "Tailwind",
+  "GitHub",
+  "npm",
+  "Jest",
+  "Git",
+];
+
+export const softSkills = [
+  "Communication",
+  "Teamwork",
+  "Problem-solving",
+  "Approachability",
+  "Patience",
+  "Time Management",
 ];

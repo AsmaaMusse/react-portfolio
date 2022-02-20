@@ -13,10 +13,8 @@ export default function App() {
       <About />
       <Projects />
       <Skills />
-      {/* 
-      
-      <Navbar />
-      <Contacts /> */}
+      <Contacts />
+      {/* <Navbar />*/}
     </main>
   );
 }

@@ -67,11 +67,13 @@ export const frontend = [
 
 export const backend = [
   "Node.js",
-  "Express.js",
+  "Express",
   "OOP",
   "MySQL",
+  "Sequelize",
   "MongoDB",
   "Apollo",
+  "Handlebars",
 ];
 
 export const nonTechnical = [
@@ -88,7 +90,10 @@ export const softSkills = [
   "Communication",
   "Teamwork",
   "Problem-solving",
+  "Open-minded",
   "Approachability",
+  "Adaptive to change",
   "Patience",
   "Time Management",
+  "Multilingual",
 ];

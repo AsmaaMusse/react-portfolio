@@ -1,7 +1,6 @@
 import "./App.css";
 import "./index.css";
 
-import Navbar from "./components/navbar";
 import About from "./components/about";
 import Projects from "./components/projects";
 import Contacts from "./components/contacts";
@@ -14,7 +13,6 @@ export default function App() {
       <Projects />
       <Skills />
       <Contacts />
-      {/* <Navbar />*/}
     </main>
   );
 }

@@ -3,16 +3,20 @@
   margin: 30px;
 }
 
-.app {
+.App {
   text-align: center;
-  max-width: 300px;
+  max-width: 500px;
   margin: 20px auto;
 }
 
-form {
+Form {
   border: 1px solid lightgray;
   border-radius: 10px;
   padding: 20px;
+}
+
+Form label {
+  color: #f3f4f6 !important;
 }
 
 /* section {

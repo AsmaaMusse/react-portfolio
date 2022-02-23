@@ -22,7 +22,7 @@ export default function About() {
 
           <div className="flex justify-center">
             <a
-              href="https://docs.google.com/document/d/169kEqUcNLwGPWIW2tqN7GuHnhUUTBz_wP80cJCaL5Mg/edit?usp=sharing"
+              href="https://docs.google.com/document/d/1lbwbAg4vfAlx0W6kf1Pz6cMBgKTcxd8x_bs1WiiEhVo/edit?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
@@ -32,12 +32,12 @@ export default function About() {
           </div>
         </div>
 
-        <div class="flex flex-wrap justify-center">
-          <div class="w-7/12 sm:w-5/12 px-4">
+        <div className="flex flex-wrap justify-center">
+          <div className="w-4/12 sm:w-6/12 px-2">
             <img
               src={picture}
               alt="profile picture"
-              class="shadow-lg rounded max-w-full h-auto align-middle border-none"
+              className="shadow-lg rounded-full max-w-full h-auto align-middle border-none"
             />
           </div>
         </div>

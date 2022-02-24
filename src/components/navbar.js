@@ -1,7 +1,6 @@
 import React from "react";
-import logo from "../assets/images/logo.jpg";
+
 import "../App.css";
-// import { ArrowRightIcon } from "@heroicons/react/solid";
 
 export default function Navbar() {
   return (

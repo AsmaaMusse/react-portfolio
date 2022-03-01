@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.ce9e4803.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.18bfa684.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.18bfa684.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.c0420c78.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.c0420c78.js.map",
+    "static/css/2.3ee818ee.chunk.css": "/react-portfolio/static/css/2.3ee818ee.chunk.css",
+    "static/js/2.2fdfa5b9.chunk.js": "/react-portfolio/static/js/2.2fdfa5b9.chunk.js",
+    "static/js/2.2fdfa5b9.chunk.js.map": "/react-portfolio/static/js/2.2fdfa5b9.chunk.js.map",
+    "static/js/3.2430c808.chunk.js": "/react-portfolio/static/js/3.2430c808.chunk.js",
+    "static/js/3.2430c808.chunk.js.map": "/react-portfolio/static/js/3.2430c808.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.3ee818ee.chunk.css.map": "/react-portfolio/static/css/2.3ee818ee.chunk.css.map",
+    "static/css/main.ce9e4803.chunk.css.map": "/react-portfolio/static/css/main.ce9e4803.chunk.css.map",
+    "static/js/2.2fdfa5b9.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.2fdfa5b9.chunk.js.LICENSE.txt",
+    "static/media/Asmaa.96ebc2ea.jpg": "/react-portfolio/static/media/Asmaa.96ebc2ea.jpg",
+    "static/media/semantic.min.css": "/react-portfolio/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/ecommerce.2cdd3cd6.png": "/react-portfolio/static/media/ecommerce.2cdd3cd6.png",
+    "static/media/employeeTracker.85d74d20.png": "/react-portfolio/static/media/employeeTracker.85d74d20.png",
+    "static/media/food4u.d7e9b248.png": "/react-portfolio/static/media/food4u.d7e9b248.png",
+    "static/media/noteTaker.44bd9090.jpg": "/react-portfolio/static/media/noteTaker.44bd9090.jpg",
+    "static/media/readers-revival.a4312844.jpg": "/react-portfolio/static/media/readers-revival.a4312844.jpg",
+    "static/media/weather-forecast.3437b900.jpg": "/react-portfolio/static/media/weather-forecast.3437b900.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c0420c78.js",
+    "static/css/2.3ee818ee.chunk.css",
+    "static/js/2.2fdfa5b9.chunk.js",
+    "static/css/main.ce9e4803.chunk.css",
+    "static/js/main.18bfa684.chunk.js"
+  ]
+}

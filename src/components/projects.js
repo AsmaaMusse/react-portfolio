@@ -31,7 +31,7 @@ export default function Projects() {
               target="_blank"
               rel="noopener noreferrer"
               key={project.application}
-              // key={project.image}
+              key={project.image}
               className="sm:w-1/2 w-100 p-4"
             >
               <div className="flex relative">

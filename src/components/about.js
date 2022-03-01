@@ -44,7 +44,7 @@ export default function About() {
       </div>
 
       <div class="socials-container">
-        <div class="socials p-4 bg-white sm:p-6 dark:bg-gray-800">
+        <div class="socials p-4 bg-gray-200 sm:p-6">
           <div class="sm:flex sm:items-center sm:justify-between">
             <div class="flex mt-4 space-x-6 sm:justify-center sm:mt-0">
               <div>

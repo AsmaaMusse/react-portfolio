@@ -4,7 +4,7 @@ export const project = [
     subtitle: "HTML, JavaScript, Web APIs, Moment.js",
     description:
       "Reading planner application where the user can search for a specific book. The user can add books to their planner and view scheduled books per month.",
-    image: "/readers-revival.jpg",
+    image: "./assets/project-pics/ecommerce.png",
     github: "https://github.com/AsmaaMusse/readers-revival",
     application: "https://asmaamusse.github.io/readers-revival/",
   },
@@ -14,7 +14,7 @@ export const project = [
     subtitle: "Node.js, Express.js, MySQL, Handlebars",
     description:
       "An application using the MVC paradigm, with its own server-side API, user authentication, and which connects to a database",
-    image: "src/assets/project-pics/mobile-home-page.png",
+    image: "./assets/project-pics/food4u.png",
     github: "https://github.com/AsmaaMusse/food4U",
     application: "https://food-4u.herokuapp.com/",
   },
@@ -24,7 +24,7 @@ export const project = [
     subtitle: "JavaScript, Node.js, Express.js, Sequelize",
     description:
       "E-commerce back end which uses Express.js to interact with a MySQL work-bench database using sequelize.",
-    image: "./assets/project-pics/code.png",
+    image: "./assets/project-pics/ecommerce.png",
     github: "https://github.com/AsmaaMusse/orm-e-commerce",
   },
 
@@ -33,7 +33,7 @@ export const project = [
     subtitle: "JavaScript, Node.js, Inquirer, MySQL",
     description:
       "Command-line application from scratch to manage a company's employee database using Node.js, Inquirer and MySQL.",
-    image: "./assets/project-pics/terminal.png",
+    image: "./assets/project-pics/employeeTracker.png",
     github: "https://github.com/AsmaaMusse/mysql-employee-tracker",
   },
 
@@ -50,7 +50,7 @@ export const project = [
     subtitle: "HTML, CSS, JavaScript, Node.js, Nodemon, Express.js",
     description:
       "Note-taker using Express and node.js which helps the user stay organized by saving and deleting notes when needed.",
-    image: "./assets/project-pics/homepage.jpg",
+    image: "./assets/project-pics/noteTaker.jpg",
     github: "https://github.com/AsmaaMusse/express-note-taker",
     application: "https://sheltered-stream-18510.herokuapp.com/",
   },

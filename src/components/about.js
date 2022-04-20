@@ -22,6 +22,8 @@ export default function About() {
     
          <p>Contact me here on please Asmaa99musse@gmail.com</p>
 
+          <p>Contact me here on please Asmaa99musse@gmail.com</p>
+
           <div className="flex justify-center">
             <a
               href="https://docs.google.com/document/d/1lbwbAg4vfAlx0W6kf1Pz6cMBgKTcxd8x_bs1WiiEhVo/edit?usp=sharing"

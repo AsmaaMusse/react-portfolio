@@ -19,6 +19,8 @@ export default function About() {
             about designing websites from scratch and making clients ideas turn
             to reality.
           </p>
+    
+         <p>Contact me here on please Asmaa99musse@gmail.com</p>
 
           <div className="flex justify-center">
             <a

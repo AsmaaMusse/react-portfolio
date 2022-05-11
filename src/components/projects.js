@@ -11,15 +11,15 @@ export default function Projects() {
           </h1>
 
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Below are some of the projects i've created, to see more projects
-            similar to these you could view my
+            Below are some of the projects I've created, to see more projects
+            similar to these you could view my -
             <a
               href="https://github.com/AsmaaMusse"
               target="_blank"
               rel="noopener noreferrer"
               style={{ color: "#FFF" }}
             >
-              Github
+              GitHub
             </a>
           </p>
         </div>

@@ -51,6 +51,10 @@ export default function Projects() {
                   </h1>
 
                   <p className="leading-relaxed">{project.description}</p>
+
+                  <p className="title-font text-lg font-medium text-white mb-3">
+                    {project.github}
+                  </p>
                 </div>
               </div>
             </a>
